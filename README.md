@@ -32,7 +32,7 @@ info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 3. deploy
 
 
-4. Add your wallet to settings.js file use bsc address 
+4. Add your wallet to settings.js file use bsc address make sure its on your forked one
 
 
 Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
